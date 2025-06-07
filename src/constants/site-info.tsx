@@ -1,0 +1,11 @@
+export const SITE_NAME = "めぐり整体院";
+export const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL;
+export const EMAIL = "info@meguri-seitai.com";
+export const ADDRESS = "東京都渋谷区道玄坂2-1-1 渋谷スクランブルスクエア2F";
+export const POST_CODE = "〒150-0043";
+export const TEL = "03-1234-5678";
+export const FACEBOOK_LINK = "https://facebook.com/meguri_seitai";
+export const TWITTER_LINK = "https://twitter.com/meguri_seitai";
+export const INSTAGRAM_LINK = "https://instagram.com/meguri_seitai";
+export const HOURS = "10:00 - 19:00";
+export const HOLIDAY = "毎週日曜日";
